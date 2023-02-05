@@ -1,0 +1,2 @@
+
+sqlcmd -S MCTX-PC -U sa -P sa@1234 -i "E:\Tahir\sales Beta\DBScript.sql"

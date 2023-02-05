@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sales Beta">
+</Property><Property Name="Solution File" Value="F:\mubashir\sales Beta\sales Beta.sln">
+</Property><Property Name="Date" Value="Wednesday, June 24, 2015">
+</Property><Property Name="Time" Value="14:27:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\Sales_BOL.csproj" Description="Project file successfully backed up as F:\mubashir\sales Beta\Backup\Sales_BOL.csproj">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_changepassword.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_changepassword.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_DailyOutput.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_DailyOutput.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Excuse.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Excuse.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_ItemsPrice.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_ItemsPrice.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Products.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Products.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Quotation.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Quotation.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_ReportDetails.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_ReportDetails.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_User.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_User.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Clients.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Clients.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Company.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Company.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Country.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Country.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_DepartmentInfo.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_DepartmentInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Employees.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Employees.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Login.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Login.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_PopUp.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_PopUp.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_ProspectingList.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_ProspectingList.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_TargetSettings.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_TargetSettings.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_UserTask.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_UserTask.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Variables.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Variables.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Visits.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Visits.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\_Welcome.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup\_Welcome.cs">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\Sales_BOL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sales_BOL" Source="Sales_BOL\Sales_BOL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sales_BOL" Source="Sales_BOL\Sales_BOL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

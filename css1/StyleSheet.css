@@ -1,0 +1,64 @@
+﻿body{
+font: normal 11px Verdana, Tahoma;}
+
+input
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+    color: #000000;
+    background-color: #CCCCCC;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    }
+SELECT
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+    height: 15px;
+    width: 76px;
+}
+input[type=submit]
+{
+	cursor:pointer;
+	height:20px;
+	
+	}
+
+BUTTON
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+	background:#966699;
+	border:solid 1px gray;
+	width:75px;
+	
+	cursor:pointer;
+	
+}
+#delete
+{
+	background-color:Window;	
+}
+a:link{color:#014E86;text-decoration:none;}
+a:hover{color:#F88421;text-decoration:none;}
+a:visited{color:#014E86;text-decoration:none;}
+
+
+.ErrorMessageDiv
+{
+	background: # FFFACD url('images/Success.png') no-repeat 5px 5px;
+	min-height: 30px;
+	border-color: Red;
+	border-style: solid;
+	border-width: 1px;
+	padding: 5px 0 5px 44px;
+	
+}
+.sussessMessageDiv  {
+	Background :#90EE90  url('images/Success.png')  no-repeat   5px  5px ;
+	Min-height:30px;
+	Border-color : green ;
+	Border-style : solid ;
+	Border-width : 1px ;
+	Padding : 5px 0 5px 44px ;
+}

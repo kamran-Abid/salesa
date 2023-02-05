@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sales Beta">
+</Property><Property Name="Solution File" Value="F:\mubashir\sales Beta\sales Beta.sln">
+</Property><Property Name="Date" Value="Wednesday, June 24, 2015">
+</Property><Property Name="Time" Value="14:27:41 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Sales_DAL" Source="Sales_DAL\Sales_DAL.csproj" Description="Project file successfully backed up as F:\mubashir\sales Beta\Backup1\Sales_DAL.csproj">
+</Event><Event ErrorLevel="0" Project="Sales_DAL" Source="Sales_DAL\Dlayer.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup1\Dlayer.cs">
+</Event><Event ErrorLevel="0" Project="Sales_DAL" Source="Sales_DAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\mubashir\sales Beta\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sales_DAL" Source="Sales_DAL\Sales_DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sales_DAL" Source="Sales_DAL\Sales_DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sales_DAL" Source="Sales_DAL\Sales_DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

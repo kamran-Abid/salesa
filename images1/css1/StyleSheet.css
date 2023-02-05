@@ -1,0 +1,29 @@
+﻿body{
+   margin: 0 auto;
+   padding: 0;
+   font: normal 12px Verdana, Tahoma;}
+
+input
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+}
+SELECT
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+}
+
+BUTTON
+{
+	font: normal 11px Verdana, Tahoma;
+	border: 1px #aaaaaa;
+	background:#966699;	
+}
+#delete
+{
+	background-color:Window;	
+}
+a:link{color:#014E86;text-decoration:none;}
+a:hover{color:#F88421;text-decoration:none;}
+a:visited{color:#014E86;text-decoration:none;}

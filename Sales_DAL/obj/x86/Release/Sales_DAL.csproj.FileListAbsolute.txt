@@ -1,0 +1,4 @@
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\x86\Release\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\x86\Release\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\x86\Release\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\x86\Release\Sales_DAL.pdb

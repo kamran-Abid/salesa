@@ -1,0 +1,11 @@
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\Release\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\Release\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\Release\Sales_DAL.csprojResolveAssemblyReference.cache
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\Release\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\Release\Sales_DAL.pdb
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\bin\Release\Sales_DAL.dll
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\bin\Release\Sales_DAL.pdb
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Release\Sales_DAL.csproj.AssemblyReference.cache
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Release\Sales_DAL.csproj.CoreCompileInputs.cache
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Release\Sales_DAL.dll
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Release\Sales_DAL.pdb

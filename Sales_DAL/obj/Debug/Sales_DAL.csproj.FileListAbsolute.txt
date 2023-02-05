@@ -1,0 +1,317 @@
+F:\Documents and Settings\sardar\My Documents\Visual Studio 2008\WebSites\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\Documents and Settings\sardar\My Documents\Visual Studio 2008\WebSites\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\Documents and Settings\sardar\My Documents\Visual Studio 2008\WebSites\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\sardar\My Documents\Visual Studio 2008\WebSites\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\Documents and Settings\sardar\My Documents\Visual Studio 2008\WebSites\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+G:\AWAIS\SALESBETA_MECHATRONIX\30-6-10\Sales_MCTX_rar\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+G:\AWAIS\SALESBETA_MECHATRONIX\30-6-10\Sales_MCTX_rar\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+G:\AWAIS\SALESBETA_MECHATRONIX\30-6-10\Sales_MCTX_rar\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\AWAIS\SALESBETA_MECHATRONIX\30-6-10\Sales_MCTX_rar\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+G:\AWAIS\SALESBETA_MECHATRONIX\30-6-10\Sales_MCTX_rar\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+E:\Khalid_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Khalid_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+E:\Khalid_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+E:\Khalid_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+E:\Khalid_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\6-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\6-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\6-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\6-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\6-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\07-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\07-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\07-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\07-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\07-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\11-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\11-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\11-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\11-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\11-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\12-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\12-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\12-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\12-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\12-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\13-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\13-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\13-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\13-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\13-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\14-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\14-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\14-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\14-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\14-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\19-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\19-07-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\19-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\19-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\19-07-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+G:\AWAIS\SALESBETA_MECHATRONIX\19-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+G:\AWAIS\SALESBETA_MECHATRONIX\19-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+G:\AWAIS\SALESBETA_MECHATRONIX\19-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+G:\AWAIS\SALESBETA_MECHATRONIX\19-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+G:\AWAIS\SALESBETA_MECHATRONIX\19-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\20-07-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\20-07-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\20-07-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\20-07-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\20-07-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\22-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\22-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\22-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\22-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\22-7-2010\Sales_MCTX\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\23-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\23-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\23-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\23-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\23-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\25-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\25-7-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\25-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\25-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\25-7-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Documents and Settings\khalidr\Desktop\Data\salesbeta\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Documents and Settings\khalidr\Desktop\Data\salesbeta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Documents and Settings\khalidr\Desktop\Data\salesbeta\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\khalidr\Desktop\Data\salesbeta\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Documents and Settings\khalidr\Desktop\Data\salesbeta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\20-08-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\20-08-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\20-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\20-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\20-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Awais\23-8-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Awais\23-8-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Awais\23-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Awais\23-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Awais\23-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\24-08-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\24-08-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\24-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\24-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\24-08-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Awais\25-8-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Awais\25-8-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Awais\25-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Awais\25-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Awais\25-8-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\Documents and Settings\Khalid Rafique\Desktop\Sales_MCTX on home\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\Documents and Settings\Khalid Rafique\Desktop\Sales_MCTX on home\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\Documents and Settings\Khalid Rafique\Desktop\Sales_MCTX on home\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\Khalid Rafique\Desktop\Sales_MCTX on home\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\Documents and Settings\Khalid Rafique\Desktop\Sales_MCTX on home\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Documents and Settings\khalidr\Desktop\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Documents and Settings\khalidr\Desktop\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Documents and Settings\khalidr\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\khalidr\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Documents and Settings\khalidr\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\09-18-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\09-18-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\09-18-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\09-18-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\09-18-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\09-23-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\09-23-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\09-23-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\09-23-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\09-23-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Merge\28-9-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Merge\28-9-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Merge\28-9-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Merge\28-9-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Merge\28-9-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\October 2010\Merge\10-05-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\October 2010\Merge\10-05-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\October 2010\Merge\10-05-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\October 2010\Merge\10-05-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\October 2010\Merge\10-05-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\2010\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\2010\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Daily Updates\Khalid\2010\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Daily Updates\Khalid\2010\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Daily Updates\Khalid\2010\October 2010\10-27-2010\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Tahir 28-06-2011\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Tahir 28-06-2011\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Tahir 28-06-2011\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Tahir 28-06-2011\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Tahir 28-06-2011\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+E:\Khalid Data\Ahsan\Sales_MCTX (Latest) 17-09-2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+E:\Khalid Data\Ahsan\Sales_MCTX (Latest) 17-09-2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+E:\Khalid Data\Ahsan\Sales_MCTX (Latest) 17-09-2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Khalid Data\Ahsan\Sales_MCTX (Latest) 17-09-2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+E:\Khalid Data\Ahsan\Sales_MCTX (Latest) 17-09-2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Documents and Settings\MCTX\Desktop\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Ahsan\Ahsan\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Ahsan\Ahsan\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Ahsan\Ahsan\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahsan\Ahsan\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Ahsan\Ahsan\Sales_MCTX (Latest) 19-09-2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Documents and Settings\secure\Desktop\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Documents and Settings\secure\Desktop\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Documents and Settings\secure\Desktop\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\secure\Desktop\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Documents and Settings\secure\Desktop\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 01 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 14 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 14 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX  Nov, 14 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahsan\Sales_MCTX  Nov, 14 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX  Nov, 14 2011\Sales_MCTX  Nov, 01 2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Sales_MCTX_Nov_01_2011\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Sales_MCTX_Nov_01_2011\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Sales_MCTX_Nov_01_2011\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Sales_MCTX_Nov_01_2011\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Sales_MCTX_Nov_01_2011\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 12 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 12 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 12 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 12 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 12 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\Ahsan\Desktop\Sales_MCTX_Jan, 13 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\Ahsan\Desktop\Sales_MCTX_Jan, 13 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\Ahsan\Desktop\Sales_MCTX_Jan, 13 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahsan\Desktop\Sales_MCTX_Jan, 13 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\Ahsan\Desktop\Sales_MCTX_Jan, 13 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX-101\Desktop\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012 (2-1-2012)\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012 (2-1-2012)\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012 (2-1-2012)\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012 (2-1-2012)\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX_Jan, 16 2012 (2-1-2012)\Sales_MCTX_Jan, 16 2012\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\Ahsan\Documents\Projects\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\Ahsan\Documents\Projects\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\Ahsan\Documents\Projects\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahsan\Documents\Projects\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\Ahsan\Documents\Projects\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX_Jan, 16 2012\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Ahsan\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ahsan\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Ahsan\Sales_MCTX_Jan, 16 2012\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Developed Softwares\Sales_MCTX_ForObaid\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Developed Softwares\Sales_MCTX_ForObaid\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Developed Softwares\Sales_MCTX_ForObaid\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Developed Softwares\Sales_MCTX_ForObaid\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Developed Softwares\Sales_MCTX_ForObaid\Sales_DAL\obj\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+C:\Users\MCTX\Desktop\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MCTX\Desktop\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+C:\Users\MCTX\Desktop\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\ObaiD's Data\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\ObaiD's Data\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\ObaiD's Data\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ObaiD's Data\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\ObaiD's Data\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\ObaiD's Data\SALES BETA (NEW CHANGES)\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\ObaiD's Data\SALES BETA (NEW CHANGES)\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\ObaiD's Data\SALES BETA (NEW CHANGES)\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\ObaiD's Data\SALES BETA (NEW CHANGES)\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\ObaiD's Data\SALES BETA (NEW CHANGES)\Sales_MCTX 03-19-2012\Sales_MCTX\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\DDriveData\mechatronix\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\DDriveData\mechatronix\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\DDriveData\mechatronix\Sales_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\DDriveData\mechatronix\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\DDriveData\mechatronix\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\mubashir\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\mubashir\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\mubashir\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\mubashir\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+E:\Tahir\Tahir MCTX Data\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+E:\Tahir\Tahir MCTX Data\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+E:\Tahir\Tahir MCTX Data\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+E:\Tahir\Tahir MCTX Data\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+E:\Tahir\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+E:\Tahir\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+E:\Tahir\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+E:\Tahir\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\sale lastest\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+F:\sale lastest\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+F:\sale lastest\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+F:\sale lastest\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+F:\sale lastest\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.csprojResolveAssemblyReference.cache
+D:\SalesBeta15052018\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\SalesBeta15052018\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\SalesBeta15052018\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\SalesBeta15052018\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mechatronix\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mechatronix\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.csprojResolveAssemblyReference.cache
+D:\Mechatronix\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mechatronix\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix\Sales Beta Live\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mechatronix\Sales Beta Live\sales Beta\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mechatronix\Sales Beta Live\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.csprojResolveAssemblyReference.cache
+D:\Mechatronix\Sales Beta Live\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mechatronix\Sales Beta Live\sales Beta\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix\Sales Beta Live\sales Beta02092019\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mechatronix\Sales Beta Live\sales Beta02092019\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mechatronix\Sales Beta Live\sales Beta02092019\Sales_DAL\obj\Debug\Sales_DAL.csprojResolveAssemblyReference.cache
+D:\Mechatronix\Sales Beta Live\sales Beta02092019\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mechatronix\Sales Beta Live\sales Beta02092019\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.csprojAssemblyReference.cache
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.csproj.CoreCompileInputs.cache
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\bin\Debug\Sales_DAL.dll
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\bin\Debug\Sales_DAL.pdb
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.csproj.AssemblyReference.cache
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.csproj.CoreCompileInputs.cache
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.dll
+D:\Mctx Zafeer\SalesBeta\Db_Script\sales Beta08102019\Sales_DAL\obj\Debug\Sales_DAL.pdb

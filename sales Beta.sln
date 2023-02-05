@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "sales Beta02092019", ".", "{BBA19992-2E26-40F4-8329-9AD62639D3DC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{72CF6605-DDCA-4A9C-8733-4054080949E7}|Sales_BOL.dll;{42857B2F-3055-44B8-AA34-24BD4296E3BC}|Sales_DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/sales Beta"
+		Debug.AspNetCompiler.PhysicalPath = "..\sales Beta02092019\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\sales Beta\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/sales Beta"
+		Release.AspNetCompiler.PhysicalPath = "..\sales Beta02092019\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\sales Beta\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50094"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_BOL", "Sales_BOL\Sales_BOL.csproj", "{72CF6605-DDCA-4A9C-8733-4054080949E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_DAL", "Sales_DAL\Sales_DAL.csproj", "{42857B2F-3055-44B8-AA34-24BD4296E3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Release|x64.ActiveCfg = Debug|Any CPU
+		{BBA19992-2E26-40F4-8329-9AD62639D3DC}.Release|x86.ActiveCfg = Debug|Any CPU
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|x64.ActiveCfg = Debug|x64
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|x64.Build.0 = Debug|x64
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|x86.ActiveCfg = Debug|x86
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Debug|x86.Build.0 = Debug|x86
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|x64.ActiveCfg = Release|x64
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|x64.Build.0 = Release|x64
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|x86.ActiveCfg = Release|x86
+		{72CF6605-DDCA-4A9C-8733-4054080949E7}.Release|x86.Build.0 = Release|x86
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|x64.ActiveCfg = Debug|x64
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|x64.Build.0 = Debug|x64
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|x86.ActiveCfg = Debug|x86
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Debug|x86.Build.0 = Debug|x86
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|x64.ActiveCfg = Release|x64
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|x64.Build.0 = Release|x64
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|x86.ActiveCfg = Release|x86
+		{42857B2F-3055-44B8-AA34-24BD4296E3BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

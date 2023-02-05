@@ -1,0 +1,2028 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSources>
+    <DataSource Name="mechatronixConnectionString">
+      <rd:DataSourceID>da3f1a16-0c96-49c9-a096-a018e50b50e0</rd:DataSourceID>
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+    </DataSource>
+  </DataSources>
+  <InteractiveHeight>11in</InteractiveHeight>
+  <Description>Quotation Report</Description>
+  <rd:DrawGrid>true</rd:DrawGrid>
+  <InteractiveWidth>8.5in</InteractiveWidth>
+  <rd:SnapToGrid>true</rd:SnapToGrid>
+  <RightMargin>0.25in</RightMargin>
+  <LeftMargin>0.25in</LeftMargin>
+  <BottomMargin>0.5in</BottomMargin>
+  <rd:ReportID>a2ea617c-241f-46ed-8ae9-d1dfb60a52f2</rd:ReportID>
+  <EmbeddedImages>
+    <EmbeddedImage Name="quotation_field35_pic0">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <PageWidth>11in</PageWidth>
+  <DataSets>
+    <DataSet Name="QuotDataSet_QuotData">
+      <Fields>
+        <Field Name="client_name">
+          <DataField>client_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="client_designation">
+          <DataField>client_designation</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="client_dept">
+          <DataField>client_dept</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="comp_name">
+          <DataField>comp_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="city_name">
+          <DataField>city_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="item_name">
+          <DataField>item_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="model_no">
+          <DataField>model_no</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="description">
+          <DataField>description</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="image_url">
+          <DataField>image_url</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="item_quantity">
+          <DataField>item_quantity</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="Iunit">
+          <DataField>Iunit</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="item_price">
+          <DataField>item_price</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="totalprice">
+          <DataField>totalprice</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="quo_date">
+          <DataField>quo_date</DataField>
+          <rd:TypeName>System.DateTime</rd:TypeName>
+        </Field>
+        <Field Name="quot_id">
+          <DataField>quot_id</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="sale_per_name">
+          <DataField>sale_per_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sal_manager_name">
+          <DataField>sal_manager_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="tec_per_name">
+          <DataField>tec_per_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sale_mobile">
+          <DataField>sale_mobile</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sale_email">
+          <DataField>sale_email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="man_mobile">
+          <DataField>man_mobile</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="man_email">
+          <DataField>man_email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="tec_mobile">
+          <DataField>tec_mobile</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="tec_email">
+          <DataField>tec_email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="comp_address">
+          <DataField>comp_address</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="Client_mobile">
+          <DataField>Client_mobile</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="client_phone">
+          <DataField>client_phone</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="client_email">
+          <DataField>client_email</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="subject">
+          <DataField>subject</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="customer_site">
+          <DataField>customer_site</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="FileId">
+          <DataField>FileId</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="FileData">
+          <DataField>FileData</DataField>
+          <rd:TypeName>System.Byte[]</rd:TypeName>
+        </Field>
+        <Field Name="item_code">
+          <DataField>item_code</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="warrenty">
+          <DataField>warrenty</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="country_name">
+          <DataField>country_name</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+        <Field Name="sumgst">
+          <DataField>sumgst</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="gstPercent">
+          <DataField>gstPercent</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="gst">
+          <DataField>gst</DataField>
+          <rd:TypeName>System.Double</rd:TypeName>
+        </Field>
+        <Field Name="Product_Image">
+          <DataField>Product_Image</DataField>
+          <rd:TypeName>System.Byte[]</rd:TypeName>
+        </Field>
+        <Field Name="quo_date1">
+          <DataField>quo_date1</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>mechatronixConnectionString</DataSourceName>
+        <CommandType>StoredProcedure</CommandType>
+        <CommandText>dbo.QuotData</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <rd:DataSetInfo>
+        <rd:DataSetName>QuotDataSet</rd:DataSetName>
+        <rd:TableName>QuotData</rd:TableName>
+        <rd:TableAdapterName>QuotDataTableAdapter</rd:TableAdapterName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <Author>Awais</Author>
+  <Code />
+  <Width>9.425in</Width>
+  <Body>
+    <ColumnSpacing>0in</ColumnSpacing>
+    <ReportItems>
+      <Textbox Name="textbox46">
+        <rd:DefaultName>textbox46</rd:DefaultName>
+        <Top>0.01041in</Top>
+        <Width>5.00001in</Width>
+        <Style>
+          <BackgroundColor>LightGrey</BackgroundColor>
+          <FontSize>12pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>10</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>4.125in</Left>
+        <Height>0.25in</Height>
+        <Value> Our References</Value>
+      </Textbox>
+      <Textbox Name="textbox45">
+        <rd:DefaultName>textbox45</rd:DefaultName>
+        <Top>0.01042in</Top>
+        <Width>0.92in</Width>
+        <Style>
+          <Color>White</Color>
+          <BackgroundColor>DimGray</BackgroundColor>
+          <FontSize>12pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <TextAlign>Right</TextAlign>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>9</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>Q</Value>
+      </Textbox>
+      <Line Name="line1">
+        <Top>0.5in</Top>
+        <Width>0in</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>8</ZIndex>
+        <Left>4in</Left>
+        <Height>1.75in</Height>
+      </Line>
+      <Rectangle Name="rectangle2">
+        <Left>4.05in</Left>
+        <ZIndex>7</ZIndex>
+        <ReportItems>
+          <Textbox Name="quot_id">
+            <rd:DefaultName>quot_id</rd:DefaultName>
+            <Width>1.25in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <TextAlign>Left</TextAlign>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>21</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!quot_id.Value, "QuotDataSet_QuotData")</Value>
+          </Textbox>
+          <Textbox Name="textbox7">
+            <rd:DefaultName>textbox7</rd:DefaultName>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>20</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Quotation No:</Value>
+          </Textbox>
+          <Textbox Name="textbox9">
+            <rd:DefaultName>textbox9</rd:DefaultName>
+            <Width>0.625in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>19</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3in</Left>
+            <Height>0.19in</Height>
+            <Value>Date:</Value>
+          </Textbox>
+          <Textbox Name="quo_date">
+            <rd:DefaultName>quo_date</rd:DefaultName>
+            <Width>1.375in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>18</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.625in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!quo_date.Value)</Value>
+          </Textbox>
+          <Textbox Name="sale_per_name">
+            <rd:DefaultName>sale_per_name</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Width>2in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>17</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!sale_per_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox16">
+            <rd:DefaultName>textbox16</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>16</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Representative:</Value>
+          </Textbox>
+          <Textbox Name="textbox21">
+            <rd:DefaultName>textbox21</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Width>0.625in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>15</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3in</Left>
+            <Height>0.19in</Height>
+            <Value>Mobile:</Value>
+          </Textbox>
+          <Textbox Name="sale_mobile">
+            <rd:DefaultName>sale_mobile</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Width>1.375in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>14</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.625in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!sale_mobile.Value)</Value>
+          </Textbox>
+          <Textbox Name="sal_manager_name">
+            <rd:DefaultName>sal_manager_name</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Width>2in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>13</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!sal_manager_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox31">
+            <rd:DefaultName>textbox31</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>12</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Sales Manager:</Value>
+          </Textbox>
+          <Textbox Name="textbox34">
+            <rd:DefaultName>textbox34</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Width>0.625in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>11</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3in</Left>
+            <Height>0.19in</Height>
+            <Value>Mobile:</Value>
+          </Textbox>
+          <Textbox Name="man_mobile">
+            <rd:DefaultName>man_mobile</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Width>1.375in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>10</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.625in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!man_mobile.Value)</Value>
+          </Textbox>
+          <Textbox Name="tec_per_name">
+            <rd:DefaultName>tec_per_name</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Width>2in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>9</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!tec_per_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox37">
+            <rd:DefaultName>textbox37</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>8</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Tech Person:</Value>
+          </Textbox>
+          <Textbox Name="textbox39">
+            <rd:DefaultName>textbox39</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Width>0.625in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>7</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3in</Left>
+            <Height>0.19in</Height>
+            <Value>Mobile:</Value>
+          </Textbox>
+          <Textbox Name="tec_mobile">
+            <rd:DefaultName>tec_mobile</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Width>1.375in</Width>
+            <Style>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>6</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>3.625in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!tec_mobile.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox40">
+            <rd:DefaultName>textbox40</rd:DefaultName>
+            <Top>0.76in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>5</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Office:</Value>
+          </Textbox>
+          <Textbox Name="comp_address">
+            <rd:DefaultName>comp_address</rd:DefaultName>
+            <Top>0.76in</Top>
+            <Width>4.125in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>4</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!comp_address.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox41">
+            <rd:DefaultName>textbox41</rd:DefaultName>
+            <Top>1.14in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Email:</Value>
+          </Textbox>
+          <Textbox Name="textbox42">
+            <rd:DefaultName>textbox42</rd:DefaultName>
+            <Top>1.14in</Top>
+            <Width>2in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>info@mechatronix.com.pk</Value>
+          </Textbox>
+          <Textbox Name="textbox43">
+            <rd:DefaultName>textbox43</rd:DefaultName>
+            <Top>0.95in</Top>
+            <Width>0.875in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Fax:</Value>
+          </Textbox>
+          <Textbox Name="textbox44">
+            <rd:DefaultName>textbox44</rd:DefaultName>
+            <Top>0.95in</Top>
+            <Width>2in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Left>0.875in</Left>
+            <Height>0.19in</Height>
+            <Value>051-2872811</Value>
+          </Textbox>
+        </ReportItems>
+        <Top>0.5in</Top>
+        <Width>5.075in</Width>
+        <Height>1.64583in</Height>
+      </Rectangle>
+      <Line Name="line2">
+        <Top>0.5in</Top>
+        <Width>8.75in</Width>
+        <Style>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+        </Style>
+        <ZIndex>6</ZIndex>
+        <Left>0.05in</Left>
+        <Height>0in</Height>
+      </Line>
+      <Textbox Name="textbox54">
+        <rd:DefaultName>textbox54</rd:DefaultName>
+        <Top>0.27083in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontFamily>Arial Narrow</FontFamily>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>5</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.05in</Left>
+        <Height>0.2in</Height>
+        <Value>Quotation Subject:</Value>
+      </Textbox>
+      <Textbox Name="subject">
+        <rd:DefaultName>subject</rd:DefaultName>
+        <Top>0.27in</Top>
+        <Width>7.78126in</Width>
+        <Style>
+          <FontFamily>Arial Narrow</FontFamily>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>4</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>1.34375in</Left>
+        <Height>0.2in</Height>
+        <Value>=First(Fields!subject.Value)</Value>
+      </Textbox>
+      <Textbox Name="textbox59">
+        <rd:DefaultName>textbox59</rd:DefaultName>
+        <Top>0.01041in</Top>
+        <Width>3.19792in</Width>
+        <Style>
+          <BackgroundColor>LightGrey</BackgroundColor>
+          <FontSize>12pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>3</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>0.92708in</Left>
+        <Height>0.25in</Height>
+        <Value>uotation                                                          </Value>
+      </Textbox>
+      <Rectangle Name="rectangle4">
+        <Left>5.125in</Left>
+        <ZIndex>2</ZIndex>
+        <ReportItems>
+          <Textbox Name="textbox56">
+            <Top>0.5in</Top>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>5</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1.75in</Left>
+            <Value>=Sum(Fields!totalprice.Value, "QuotDataSet_QuotData")+Sum(Fields!gst.Value, "QuotDataSet_QuotData")</Value>
+          </Textbox>
+          <Textbox Name="textbox55">
+            <Top>0.5in</Top>
+            <Width>1.75in</Width>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>4</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Value>Grand Total:</Value>
+          </Textbox>
+          <Textbox Name="textbox14">
+            <Top>0.25in</Top>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1.75in</Left>
+            <Height>0.25in</Height>
+            <Value>=Sum(Fields!gst.Value, "QuotDataSet_QuotData")</Value>
+          </Textbox>
+          <Textbox Name="textbox13">
+            <Top>0.25in</Top>
+            <Width>1.75in</Width>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>GST Total:</Value>
+          </Textbox>
+          <Textbox Name="textbox8">
+            <rd:DefaultName>textbox8</rd:DefaultName>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1.75in</Left>
+            <Height>0.25in</Height>
+            <Value>=Sum(Fields!totalprice.Value, "QuotDataSet_QuotData")</Value>
+          </Textbox>
+          <Textbox Name="textbox5">
+            <rd:DefaultName>textbox5</rd:DefaultName>
+            <Width>1.75in</Width>
+            <Style>
+              <BorderStyle>
+                <Default>Groove</Default>
+              </BorderStyle>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.25in</Height>
+            <Value>Total (Excluding GST):</Value>
+          </Textbox>
+        </ReportItems>
+        <Top>3.25in</Top>
+        <Width>4.00001in</Width>
+      </Rectangle>
+      <Rectangle Name="rectangle1">
+        <Left>0.05in</Left>
+        <ZIndex>1</ZIndex>
+        <ReportItems>
+          <Textbox Name="client_email">
+            <rd:DefaultName>client_email</rd:DefaultName>
+            <Top>1.52in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>17</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!client_email.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox36">
+            <rd:DefaultName>textbox36</rd:DefaultName>
+            <Top>1.52in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>16</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Email:</Value>
+          </Textbox>
+          <Textbox Name="client_phone">
+            <rd:DefaultName>client_phone</rd:DefaultName>
+            <Top>1.14in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>15</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!client_phone.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox33">
+            <rd:DefaultName>textbox33</rd:DefaultName>
+            <Top>1.14in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>14</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Phone:</Value>
+          </Textbox>
+          <Textbox Name="Client_mobile">
+            <rd:DefaultName>Client_mobile</rd:DefaultName>
+            <Top>1.33in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>13</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!Client_mobile.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox30">
+            <rd:DefaultName>textbox30</rd:DefaultName>
+            <Top>1.33in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>12</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Mobile:</Value>
+          </Textbox>
+          <Textbox Name="customer_site">
+            <rd:DefaultName>customer_site</rd:DefaultName>
+            <Top>0.76in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>11</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!customer_site.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox28">
+            <rd:DefaultName>textbox28</rd:DefaultName>
+            <Top>0.76in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>10</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Organization:</Value>
+          </Textbox>
+          <Textbox Name="city_name">
+            <rd:DefaultName>city_name</rd:DefaultName>
+            <Top>0.95in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>9</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!city_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox27">
+            <rd:DefaultName>textbox27</rd:DefaultName>
+            <Top>0.95in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>8</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>City:</Value>
+          </Textbox>
+          <Textbox Name="comp_name_1">
+            <rd:DefaultName>comp_name_1</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>7</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!comp_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox24">
+            <rd:DefaultName>textbox24</rd:DefaultName>
+            <Top>0.57in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>6</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Company:</Value>
+          </Textbox>
+          <Textbox Name="client_dept">
+            <rd:DefaultName>client_dept</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>5</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!client_dept.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox6">
+            <rd:DefaultName>textbox6</rd:DefaultName>
+            <Top>0.38in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>4</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Department:</Value>
+          </Textbox>
+          <Textbox Name="client_designation">
+            <rd:DefaultName>client_designation</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>3</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!client_designation.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox3">
+            <rd:DefaultName>textbox3</rd:DefaultName>
+            <Top>0.19in</Top>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>2</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Designation:</Value>
+          </Textbox>
+          <Textbox Name="client_name">
+            <rd:DefaultName>client_name</rd:DefaultName>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <ZIndex>1</ZIndex>
+            <CanGrow>true</CanGrow>
+            <Left>1in</Left>
+            <Height>0.19in</Height>
+            <Value>=First(Fields!client_name.Value)</Value>
+          </Textbox>
+          <Textbox Name="textbox2">
+            <rd:DefaultName>textbox2</rd:DefaultName>
+            <Width>1in</Width>
+            <Style>
+              <FontFamily>Arial Narrow</FontFamily>
+              <FontSize>8pt</FontSize>
+              <FontWeight>700</FontWeight>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+            <CanGrow>true</CanGrow>
+            <Height>0.19in</Height>
+            <Value>Attn:</Value>
+          </Textbox>
+        </ReportItems>
+        <Top>0.5in</Top>
+        <Width>3.875in</Width>
+        <Height>1.75in</Height>
+      </Rectangle>
+      <Table Name="table2">
+        <DataSetName>QuotDataSet_QuotData</DataSetName>
+        <KeepTogether>true</KeepTogether>
+        <Top>2.625in</Top>
+        <Width>9.09241in</Width>
+        <Details>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="item_code">
+                      <rd:DefaultName>item_code</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>11</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!item_code.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="description">
+                      <rd:DefaultName>description</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>10</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!description.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="country_name">
+                      <rd:DefaultName>country_name</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>9</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!country_name.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Image Name="image2">
+                      <Sizing>Fit</Sizing>
+                      <MIMEType>image/png</MIMEType>
+                      <Source>Database</Source>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                      </Style>
+                      <ZIndex>8</ZIndex>
+                      <Value>=Fields!Product_Image.Value</Value>
+                    </Image>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="item_quantity">
+                      <rd:DefaultName>item_quantity</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>7</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!item_quantity.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="Iunit">
+                      <rd:DefaultName>Iunit</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>6</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!Iunit.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="item_price">
+                      <rd:DefaultName>item_price</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>5</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!item_price.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="totalprice">
+                      <rd:DefaultName>totalprice</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>4</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!totalprice.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="gstPercent">
+                      <rd:DefaultName>gstPercent</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>3</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!gstPercent.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="gst">
+                      <rd:DefaultName>gst</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>2</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!gst.Value/Fields!item_quantity.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="gst_1">
+                      <rd:DefaultName>gst_1</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>1</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Fields!gst.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="comp_name">
+                      <rd:DefaultName>comp_name</rd:DefaultName>
+                      <Style>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <CanGrow>true</CanGrow>
+                      <Value>=(Fields!item_price.Value*Fields!item_quantity.Value)+Fields!gst.Value</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.2in</Height>
+            </TableRow>
+          </TableRows>
+        </Details>
+        <Style>
+          <BorderStyle>
+            <Default>Groove</Default>
+          </BorderStyle>
+        </Style>
+        <Header>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox10">
+                      <rd:DefaultName>textbox10</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>31</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Item code</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox1">
+                      <rd:DefaultName>textbox1</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>30</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Description</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox38">
+                      <rd:DefaultName>textbox38</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>29</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Origin</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox29">
+                      <rd:DefaultName>textbox29</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>10pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>28</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Image</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox26">
+                      <rd:DefaultName>textbox26</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>27</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Qty</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox23">
+                      <rd:DefaultName>textbox23</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>26</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>U.O.M</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox35">
+                      <rd:DefaultName>textbox35</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>25</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>U. Price</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox32">
+                      <rd:DefaultName>textbox32</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Left</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>24</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Price Ex.GST</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox20">
+                      <rd:DefaultName>textbox20</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>23</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>GST %</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox15">
+                      <rd:DefaultName>textbox15</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>22</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>GST/ Unit</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox4">
+                      <rd:DefaultName>textbox4</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>21</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>GST Payable</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox12">
+                      <rd:DefaultName>textbox12</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>DarkGray</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontFamily>Arial Narrow</FontFamily>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>20</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Total Price</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.2in</Height>
+            </TableRow>
+          </TableRows>
+          <RepeatOnNewPage>true</RepeatOnNewPage>
+          <FixedHeader>true</FixedHeader>
+        </Header>
+        <TableColumns>
+          <TableColumn>
+            <Width>0.5755in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>2.95455in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.55494in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.625in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.25692in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.38538in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.49328in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.71937in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.40079in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.64749in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.78146in</Width>
+          </TableColumn>
+          <TableColumn>
+            <Width>0.69773in</Width>
+          </TableColumn>
+        </TableColumns>
+        <Height>0.6in</Height>
+        <Footer>
+          <TableRows>
+            <TableRow>
+              <TableCells>
+                <TableCell>
+                  <ColSpan>4</ColSpan>
+                  <ReportItems>
+                    <Textbox Name="textbox17">
+                      <rd:DefaultName>textbox17</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Center</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>19</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>Total</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="item_quantity_1">
+                      <rd:DefaultName>item_quantity_1</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>18</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Sum(Fields!item_quantity.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ColSpan>2</ColSpan>
+                  <ReportItems>
+                    <Textbox Name="textbox25">
+                      <rd:DefaultName>textbox25</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>17</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="totalprice_2">
+                      <rd:DefaultName>totalprice_2</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <TextAlign>Right</TextAlign>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>16</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Sum(Fields!totalprice.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox22">
+                      <rd:DefaultName>textbox22</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>15</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox19">
+                      <rd:DefaultName>textbox19</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>14</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value />
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox11">
+                      <rd:DefaultName>textbox11</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>13</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Sum(Fields!gst.Value, "QuotDataSet_QuotData")</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+                <TableCell>
+                  <ReportItems>
+                    <Textbox Name="textbox18">
+                      <rd:DefaultName>textbox18</rd:DefaultName>
+                      <Style>
+                        <BackgroundColor>Gainsboro</BackgroundColor>
+                        <BorderStyle>
+                          <Default>Groove</Default>
+                        </BorderStyle>
+                        <FontSize>8pt</FontSize>
+                        <FontWeight>700</FontWeight>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                      <ZIndex>12</ZIndex>
+                      <CanGrow>true</CanGrow>
+                      <Value>=Sum(Fields!totalprice.Value)+(Fields!gst.Value)</Value>
+                    </Textbox>
+                  </ReportItems>
+                </TableCell>
+              </TableCells>
+              <Height>0.2in</Height>
+            </TableRow>
+          </TableRows>
+        </Footer>
+        <Left>0.01875in</Left>
+      </Table>
+    </ReportItems>
+    <Height>4in</Height>
+    <Style>
+      <BackgroundColor>White</BackgroundColor>
+    </Style>
+  </Body>
+  <Language>en-US</Language>
+  <PageFooter>
+    <PrintOnFirstPage>true</PrintOnFirstPage>
+    <ReportItems>
+      <Textbox Name="textbox51">
+        <rd:DefaultName>textbox51</rd:DefaultName>
+        <Top>0.125in</Top>
+        <Width>0.87501in</Width>
+        <Style>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>2</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Left>8.25in</Left>
+        <Height>0.25in</Height>
+        <Value>=Globals.PageNumber &amp; " of " &amp; Globals.TotalPages
+</Value>
+      </Textbox>
+      <Textbox Name="textbox53">
+        <Top>0.125in</Top>
+        <Width>0.875in</Width>
+        <Style>
+          <FontFamily>Arial Narrow</FontFamily>
+          <FontSize>8pt</FontSize>
+          <FontWeight>700</FontWeight>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <ZIndex>1</ZIndex>
+        <CanGrow>true</CanGrow>
+        <Height>0.25in</Height>
+        <Value>Current Date:</Value>
+      </Textbox>
+      <Textbox Name="textbox52">
+        <rd:DefaultName>textbox52</rd:DefaultName>
+        <Top>0.125in</Top>
+        <Width>1.25in</Width>
+        <Style>
+          <FontFamily>Arial Narrow</FontFamily>
+          <FontSize>8pt</FontSize>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+        <CanGrow>true</CanGrow>
+        <Left>0.875in</Left>
+        <Height>0.25in</Height>
+        <Value>=FormatDateTime(ToDay(),DateFormat.ShortDate)</Value>
+      </Textbox>
+    </ReportItems>
+    <Height>0.5in</Height>
+    <PrintOnLastPage>true</PrintOnLastPage>
+  </PageFooter>
+  <TopMargin>0.5in</TopMargin>
+  <PageHeight>9.2in</PageHeight>
+</Report>

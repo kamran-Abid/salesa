@@ -1,0 +1,7 @@
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\bin\x86\Debug\Sales_BOL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\bin\x86\Debug\Sales_BOL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\bin\x86\Debug\Sales_DAL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\bin\x86\Debug\Sales_DAL.pdb
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\obj\x86\Debug\Sales_BOL.csprojResolveAssemblyReference.cache
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\obj\x86\Debug\Sales_BOL.dll
+D:\Mechatronix_SalesBeta\Solution-Code\sales Beta\Sales_BOL\obj\x86\Debug\Sales_BOL.pdb
